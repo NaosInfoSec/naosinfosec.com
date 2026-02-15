@@ -1,7 +1,7 @@
 ---
 title: HTB Squashed
 date: 2023-03-05 22:22:00 +0800
-categories: [HTB]
+categories: [HackTheBox]
 tags: [Network,Vulnerability Assessment,Common Services,Authentication,Apache,X11,NFS,Reconnaissance,User Enumeration,Impersonation,Arbitrary File Upload,HTB]
 pin: false
 author: GRX6

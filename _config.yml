@@ -3,9 +3,9 @@ title: NaosInfoSec
 tagline: Technology and Ethical hacking blog.  # it will display as the sub-title
 description: Ethical hacking blog.
 url: 'https://naosinfosec.com'
-github:
-  username: raiabril
-# paginate: 10
+# github:
+#   username: test
+# # paginate: 10
 permalink: /:categories/:slug
 kramdown:
   syntax_highlighter: rouge

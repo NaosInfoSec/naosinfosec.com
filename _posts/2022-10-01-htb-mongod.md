@@ -1,7 +1,7 @@
 ---
 title: HTB Mongod
 date: 2022-10-01 22:48:00 +0800
-categories: [HTB]
+categories: [HackTheBox]
 tags: [Linux, Databases, MongoDB]
 pin: false
 author: GRX6

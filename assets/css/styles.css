@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: #0B0B0B;
 }
 
 pre {
@@ -20,16 +20,16 @@ h2,
 h3,
 h4,
 a,
-p,
 ul,
 li,
 pre,
 em {
-    color: greenyellow;
+    color: #A0DFA0;
 }
 
 p {
     text-align: justify;
+    color:#8FBC8F;
 }
 
 .nav {

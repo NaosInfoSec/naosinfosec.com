@@ -1,20 +1,8 @@
 ---
 title: HTB Antique
-date: 2022-08-03 20:55:00 +0800
+date: 2099-08-03 20:55:00 +0800
 categories: [HackTheBox]
-tags:
-    [
-        Network,
-        Easy,
-        Internal,
-        Telnet,
-        CVE-2012-5519,
-        SNMP,
-        HTB,
-        snmpwalk,
-        nmap,
-        CUPS,
-    ]
+tags: []
 pin: false
 author: GRX6
 layout: post
